@@ -20,8 +20,8 @@ Here are the outcomes of the project
       - customer previously cancelled at least one time
   * Also, if there is special requests and request for car parking space, customer is less likely to cancel the booking
   * Trained a classification model to predict which bookings are likely to cancel
-      - Created/Tested Logistic Regression, Decision Tree, Naive Bayes, Light BGM, and Random Forest
-      - Both Light BGM & Random Forest suggest lead time & adr are the most important features which should be considered to predict booking cancellation
+      - Created/Tested Logistic Regression, Decision Tree, Naive Bayes, Light GBM, and Random Forest
+      - Both Light GBM & Random Forest suggest lead time & adr are the most important features which should be considered to predict booking cancellation
       - The best model of this study is Random Forest with mean accuracy at 81.6% from cross validation
 
 **Important features - Light GBM**
