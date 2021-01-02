@@ -37,7 +37,7 @@ Here are the outcomes of the project
 ![](Capture137.PNG)
 
 
-[More info:](https://github.com/kilee722/Hotel_Booking_Cancellation/blob/main/hotel_cancel_classification.ipynb)
+More info:[https://github.com/kilee722/Hotel_Booking_Cancellation/blob/main/hotel_cancel_classification.ipyn](https://github.com/kilee722/Hotel_Booking_Cancellation/blob/main/hotel_cancel_classification.ipynb)
 [Hotel Booking Demand Datasets: Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
 
 ## Technologies
