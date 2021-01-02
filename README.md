@@ -19,11 +19,11 @@ Here are the outcomes of the project
       - Both Light BGM & Random Forest suggest lead time & adr are the most important features which should be considered to predict booking cancellation
       - The best model of this study is Random Forest with mean accuracy at 81.6% from cross validation
 
-*1) lead time: Number of days that elapsed between the entering date of the booking into the PMS and the arrival date
-*2) total of special request: Number of special requests made by the customer (e.g. twin bed or high floor)
-*3) required car parking spaces: Number of car parking spaces required by the customer
-*4) booking changes: Number of changes/amendments made to the booking from the moment the booking was entered on the PMS
-*5) previous cancellations: Number of previous bookings that were cancelled by the customer prior to the current booking
+*1) lead time: Number of days that elapsed between the entering date of the booking into the PMS and the arrival date*
+*2) total of special request: Number of special requests made by the customer (e.g. twin bed or high floor)*
+*3) required car parking spaces: Number of car parking spaces required by the customer*
+*4) booking changes: Number of changes/amendments made to the booking from the moment the booking was entered on the PMS*
+*5) previous cancellations: Number of previous bookings that were cancelled by the customer prior to the current booking*
 
 Important features - Light GMB
 ![](Capture135.PNG)
