@@ -24,15 +24,15 @@ Here are the outcomes of the project
       - Both Light BGM & Random Forest suggest lead time & adr are the most important features which should be considered to predict booking cancellation
       - The best model of this study is Random Forest with mean accuracy at 81.6% from cross validation
 
-Important features - Light GMB
+**Important features - Light GMB**
 
 ![](Capture135.PNG)
 
-Important features - Random Forest
+**Important features - Random Forest**
 
 ![](Capture136.PNG)
 
-Random Forest Cross Validation Report
+**Random Forest Cross Validation Report**
 
 ![](Capture137.PNG)
 
