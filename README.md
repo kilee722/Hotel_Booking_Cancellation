@@ -43,8 +43,8 @@ Hotel Booking Demand Datasets: [Kaggle](https://www.kaggle.com/jessemostipak/hot
 
 ## Technologies
 * Python
-* numpy
-* pandas
-* seaborn
-* matplotlib
-* sklearn
+ * numpy: Data Pre-processing
+ * pandas: Data Pre-processing
+ * seaborn: Data Visualization
+ * matplotlib: Data Visualization
+ * sklearn: Machine Learning Algorithms
