@@ -7,7 +7,7 @@ Question:
 What are the features correlated to booking cancellation and can machine learning algorithm predict booking cancellation of customer based on features in the datasets?
 
 Here are the outcomes of the project
-  * Correlation tests reveals that 1)lead time, 2)total of special request, 3)required car parking spaces ,4)booking changes and 5)previous cancellations have some correlation to booking cancellations
+  * Correlation tests reveals that 1) lead time, 2) total of special request, 3) required car parking spaces ,4) booking changes and 5) previous cancellations have some correlation to booking cancellations
   * Exploratory Data Analysis shows that there is a higher chance of booking cancellations when,
       - customer is group traveler
       - deposit is non-refund
@@ -18,5 +18,20 @@ Here are the outcomes of the project
       - Created/Tested Logistic Regression, Decision Tree, Naive Bayes, Light BGM, and Random Forest
       - Both Light BGM & Random Forest suggest lead time & adr are the most important features which should be considered to predict booking cancellation
       - The best model of this study is Random Forest with mean accuracy at 81.6% from cross validation
+
+1) lead time: Number of days that elapsed between the entering date of the booking into the PMS and the arrival date
+2) total of special request: Number of special requests made by the customer (e.g. twin bed or high floor)
+3) required car parking spaces: Number of car parking spaces required by the customer
+4) booking changes: Number of changes/amendments made to the booking from the moment the booking was entered on the PMS
+5) previous cancellations: Number of previous bookings that were cancelled by the customer prior to the current booking
+
+Important features - Light GMB
+![](Capture135.PNG)
+
+Important features - Random Forest
+![](Capture136.PNG)
+
+Random Forest Cross Validation Report
+![](Capture137.PNG)
 
 
