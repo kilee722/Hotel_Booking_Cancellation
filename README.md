@@ -1,5 +1,5 @@
 # Hotel Booking Demand Analysis & Cancellation
-For this project, I used [Hotel Booking Demand Datasets from Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand) to creat meaningful analysis report of hotel business. I also created classification model using simple regresion & Random Forest to predict hotel booking cancellation.
+For this project, I used [Hotel Booking Demand Datasets on Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand) to creat meaningful analysis report of hotel business. I also created classification model using simple regresion & Random Forest to predict hotel booking cancellation.
 
 ![](hotelbooking.jpg)
 
